@@ -17,3 +17,8 @@ e.g.
 ```
 vis();
 ```
+## NPM
+This package is now available
+```
+npm i visable
+```
