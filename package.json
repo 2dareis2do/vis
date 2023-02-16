@@ -1,0 +1,22 @@
+{
+  "name": "visable",
+  "version": "1.0.0",
+  "description": "This is a simple module that returns either true or false if a browser tab or window is visible",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2dareis2do/vis.git"
+  },
+  "keywords": [
+    "Visibility"
+  ],
+  "author": "Daniel Lobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2dareis2do/vis/issues"
+  },
+  "homepage": "https://github.com/2dareis2do/vis#readme"
+}
