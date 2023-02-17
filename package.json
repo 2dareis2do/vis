@@ -1,6 +1,6 @@
 {
   "name": "visable",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "This is a simple module that returns either true or false if a browser tab or window is visible",
   "main": "index.js",
   "scripts": {
