@@ -18,7 +18,7 @@ e.g.
 vis();
 ```
 ## NPM
-This package is now available
+This package is now available on npm
 ```
 npm i visable
 ```
