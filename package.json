@@ -1,6 +1,6 @@
 {
   "name": "visable",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "description": "This is a simple module that returns either true or false if a browser tab or window is visible",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "Visibility"
   ],
   "author": "Daniel Lobo",
-  "license": "ISC",
+  "license": "GPL 2",
   "bugs": {
     "url": "https://github.com/2dareis2do/vis/issues"
   },
